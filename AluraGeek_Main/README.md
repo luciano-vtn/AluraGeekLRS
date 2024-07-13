@@ -30,4 +30,5 @@ Este projeto faz parte do desafio "Praticando Front End" da Alura, onde desenvol
 
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
+3. Caso não abra o arquivo direto e só clicar na pasta "AluraGeek_Main"
 
