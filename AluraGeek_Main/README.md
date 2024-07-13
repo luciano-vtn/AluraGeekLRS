@@ -2,7 +2,6 @@
 
 Este projeto faz parte do desafio "Praticando Front End" da Alura, onde desenvolvemos uma aplicação para listar, cadastrar e deletar produtos utilizando HTML, CSS e JavaScript.
 
-![AluraGeek](img/geek.png)
 
 ## Funcionalidades
 
@@ -23,8 +22,6 @@ Este projeto faz parte do desafio "Praticando Front End" da Alura, onde desenvol
 │   └── validate.js
 ├── assets/
 │   └── hearts.svg
-├── img/
-│   └── geek.png
 ├── index.html
 └── README.md
 ```
@@ -34,8 +31,3 @@ Este projeto faz parte do desafio "Praticando Front End" da Alura, onde desenvol
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
 
-## Contribuição
-
-Este é um projeto educacional desenvolvido como parte do curso da Alura. Contribuições não são esperadas.
-
----
